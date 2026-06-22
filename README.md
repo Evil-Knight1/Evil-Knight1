@@ -20,7 +20,7 @@ AI-powered healthcare platform connecting patients and doctors.
 - 🤖 AI medical assistant  
 - 🔔 Push notifications  
 
-🔗 [Repository](https://github.com/Evil-Knight1/doctor-appointment-1)
+🔗 [Repository](https://github.com/Evil-Knight1/doctor_appointment)
 
 ---
 
@@ -49,7 +49,7 @@ Full-stack shopping application with admin dashboard.
 - 🌍 Arabic / English localization  
 - 📦 Admin dashboard for product management  
 
-🔗 [Repository](https://github.com/Evil-Knight1/e-commerce)
+🔗 [Repository](https://github.com/Evil-Knight1/e_commerce_app)
 
 ---
 
@@ -62,7 +62,7 @@ Documentation crawler that converts docs into AI-ready skills.
 - 🌍 Project & global scope support  
 - 🧠 AI-ready markdown generation  
 
-🔗 [Repository](https://github.com/Evil-Knight1/agent-skills)
+🔗 [Repository](https://github.com/Evil-Knight1/skill-generator)
 
 ---
 
