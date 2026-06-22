@@ -78,7 +78,7 @@ Flutter • Dart • Bloc • Cubit • GoRouter
 Kotlin • Android MediaProjection • Services • Platform Channels
 
 ### Tools
-Git • Docker • VS Code Extensions • REST APIs
+Git • Docker • VS Code Extensions • REST APIs • GenKit
 
 ---
 
@@ -101,8 +101,8 @@ Git • Docker • VS Code Extensions • REST APIs
 
 ## 📫 Contact
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com)
-- Email: your.email@example.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ebrahem-hussein-90515a247/)
+- Email: ebrahemabohessein@gmail.com
 - GitHub: https://github.com/Evil-Knight1
 
 ---
